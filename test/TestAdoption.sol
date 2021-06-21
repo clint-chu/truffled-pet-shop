@@ -35,6 +35,4 @@ contract TestAdoption {
 
         Assert.equal(adopters[expectedPetId], expectedAdopter, "Owner of the expected pet should be this contract");
     }
-
-    // comment
 }
